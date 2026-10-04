@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Track>
+  <Name>Ice 3</Name>
+  <Theme>ice</Theme>
+  <Order>3</Order>
+  <Legs>
+    <Leg angle="270" length="1119">
+      <Item type="start mark" distance="130" shift="-200"/>
+    </Leg>
+    <Leg angle="281.2" length="175"/>
+    <Leg angle="303.6" length="175"/>
+    <Leg angle="314.8" length="413"/>
+    <Leg angle="316.2" length="518">
+      <Item type="powerup - speed" distance="18" shift="51" rotation="90"/>
+    </Leg>
+    <Leg angle="334.9" length="615">
+      <Item type="ice spike" distance="249" shift="116" rotation="90"/>
+    </Leg>
+    <Leg angle="352.7" length="373"/>
+    <Leg angle="0.7" length="125"/>
+    <Leg angle="16.6" length="125"/>
+    <Leg angle="24.6" length="368"/>
+    <Leg angle="52.4" length="476"/>
+    <Leg angle="77.2" length="464">
+      <Item type="ice spike" distance="6" shift="6" rotation="90"/>
+      <Item type="ice spike" distance="105" shift="93" rotation="90"/>
+      <Item type="powerup - handling" distance="398" shift="44" rotation="90"/>
+    </Leg>
+    <Leg angle="92" length="495"/>
+    <Leg angle="101.7" length="3900">
+      <Item type="snowball" distance="1217" shift="49" rotation="90"/>
+      <Item type="powerup - acceleration" distance="1332" shift="-25" rotation="90"/>
+      <Item type="snowball" distance="3397" shift="141" rotation="90"/>
+      <Item type="powerup - speed" distance="3519" shift="12" rotation="90"/>
+    </Leg>
+    <Leg angle="85.3" length="1189"/>
+    <Leg angle="94.2" length="788">
+      <Item type="snowball" distance="502" shift="-83" rotation="90"/>
+      <Item type="snowball" distance="583" shift="17" rotation="90"/>
+    </Leg>
+    <Leg angle="79.1" length="463">
+      <Item type="powerup - handling" distance="210" shift="5" rotation="90"/>
+    </Leg>
+    <Leg angle="67.4" length="1085">
+      <Item type="ice spike" distance="842" shift="-134" rotation="90"/>
+    </Leg>
+    <Leg angle="48.6" length="617"/>
+    <Leg angle="26.4" length="630"/>
+    <Leg angle="2.8" length="786">
+      <Item type="powerup - acceleration" distance="65" shift="29" rotation="90"/>
+      <Item type="waterhole1" distance="283" shift="6" rotation="90"/>
+    </Leg>
+    <Leg angle="340.6" length="661">
+      <Item type="powerup - speed" distance="534" shift="22" rotation="90"/>
+    </Leg>
+    <Leg angle="326.3" length="832"/>
+    <Leg angle="299.3" length="504">
+      <Item type="waterhole1" distance="170" shift="64" rotation="90"/>
+      <Item type="waterhole1" distance="266" shift="140" rotation="90"/>
+    </Leg>
+    <Leg angle="281.6" length="1230">
+      <Item type="powerup - speed" distance="125" shift="-65" rotation="90"/>
+    </Leg>
+    <Leg angle="268.4" length="2120">
+      <Item type="waterhole1" distance="350" shift="122" rotation="90"/>
+      <Item type="waterhole1" distance="439" shift="117" rotation="90"/>
+      <Item type="powerup - handling" distance="1270" shift="36" rotation="90"/>
+    </Leg>
+    <Leg angle="281.5" length="610">
+      <Item type="waterhole1" distance="142" shift="50" rotation="90"/>
+    </Leg>
+    <Leg angle="305.3" length="562"/>
+    <Leg angle="325.5" length="590">
+      <Item type="powerup - acceleration" distance="6" shift="-47" rotation="90"/>
+    </Leg>
+    <Leg angle="341.6" length="432">
+      <Item type="powerup - acceleration" distance="315" shift="-68" rotation="90"/>
+      <Item type="snowball" distance="342" shift="64" rotation="90"/>
+    </Leg>
+    <Leg angle="2.6" length="526">
+      <Item type="ice spike" distance="10" shift="129" rotation="90"/>
+    </Leg>
+    <Leg angle="25.8" length="858"/>
+    <Leg angle="34.5" length="136"/>
+    <Leg angle="55" length="215">
+      <Item type="snowball" distance="49" shift="124" rotation="90"/>
+      <Item type="powerup - speed" distance="79" shift="106" rotation="90"/>
+      <Item type="snowball" distance="144" shift="19" rotation="90"/>
+    </Leg>
+    <Leg angle="72.2" length="169"/>
+    <Leg angle="95.5" length="169"/>
+    <Leg angle="107.2" length="697"/>
+    <Leg angle="99.3" length="1396">
+      <Item type="snowball" distance="926" shift="-131" rotation="90"/>
+    </Leg>
+    <Leg angle="111.5" length="1351">
+      <Item type="powerup - handling" distance="378" shift="-19" rotation="90"/>
+    </Leg>
+    <Leg angle="88.1" length="3649">
+      <Item type="waterhole0" distance="260" shift="117" rotation="90"/>
+      <Item type="waterhole0" distance="374" shift="-24" rotation="90"/>
+      <Item type="powerup - acceleration" distance="1411" shift="72" rotation="90"/>
+      <Item type="ice spike" distance="2401" shift="-68" rotation="90"/>
+    </Leg>
+    <Leg angle="76.4" length="509">
+      <Item type="powerup - speed" distance="318" shift="-6" rotation="90"/>
+      <Item type="waterhole1" distance="501" shift="-57" rotation="90"/>
+    </Leg>
+    <Leg angle="69" length="115"/>
+    <Leg angle="54.3" length="115">
+      <Item type="waterhole1" distance="10" shift="29" rotation="90"/>
+    </Leg>
+    <Leg angle="47" length="838">
+      <Item type="powerup - speed" distance="431" shift="30" rotation="90"/>
+    </Leg>
+    <Leg angle="29.8" length="502"/>
+    <Leg angle="2.3" length="357"/>
+    <Leg angle="349.8" length="1429">
+      <Item type="powerup - handling" distance="59" shift="73" rotation="90"/>
+      <Item type="ice spike" distance="187" shift="28" rotation="90"/>
+      <Item type="snowball" distance="295" shift="64" rotation="90"/>
+      <Item type="snowball" distance="401" shift="-120" rotation="90"/>
+    </Leg>
+    <Leg angle="334.2" length="384"/>
+    <Leg angle="311" length="354"/>
+    <Leg angle="287.9" length="1441">
+      <Item type="snowball" distance="79" shift="-126" rotation="90"/>
+      <Item type="snowball" distance="181" shift="93" rotation="90"/>
+      <Item type="snowball" distance="264" shift="99" rotation="90"/>
+      <Item type="powerup - acceleration" distance="297" shift="70" rotation="90"/>
+      <Item type="finish mark" distance="1396" shift="-200"/>
+    </Leg>
+    <Leg angle="287.9" length="381"/>
+  </Legs>
+</Track>

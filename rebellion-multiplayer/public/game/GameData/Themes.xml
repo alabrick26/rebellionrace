@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Themes>
+  <Theme name="construction" road="construction road" ground="grass-new" transitionType="grass" centerLine="center line yellow" sideLine="side strip" dashes="" ambientElement="bush0" roadFriction="0.9" groundFriction="1.0" roadSkidSound="skid" roadSkidGraphic="skid" offRoadSkidGraphic="skid" offRoadSkidSound="tiresDirt" skidType="normal"/>
+  <Theme name="lava" road="lava road" ground="lava" transitionType="lava" centerLine="center line yellow" sideLine="side strip" dashes="" ambientElement="burned tree" roadFriction="0.8" groundFriction="0.9" roadSkidSound="skid" roadSkidGraphic="skid" offRoadSkidGraphic="skid" offRoadSkidSound="tiresDirt" skidType="normal"/>
+  <Theme name="ice" road="ice road" ground="snow" transitionType="ice" centerLine="center line ice" sideLine="side strip" dashes="" ambientElement="pineTree0" roadFriction="0.4" groundFriction="0.3" roadSkidSound="skid" roadSkidGraphic="skidIce" offRoadSkidGraphic="skidIce" offRoadSkidSound="tiresDirt" skidType="ice"/>
+</Themes>

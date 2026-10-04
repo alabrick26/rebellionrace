@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Rebellion Race</title>
+  <link rel="stylesheet" href="/style.css">
+  <!-- The game calls getURL("javascript:FlashTrack(...)") for old Mattel analytics; swallow it. -->
+  <script>window.FlashTrack = function () {};</script>
+</head>
+<body>
+  <header>
+    <label for="nick">Enter your nickname</label>
+    <input id="nick" type="text" maxlength="16" autocomplete="off" spellcheck="false" placeholder="e.g. TurboDude">
+    <button id="play" type="button">Play</button>
+    <span id="msg" role="status"></span>
+  </header>
+
+  <main>
+    <section id="stage-wrap">
+      <div id="stage"><p id="placeholder">Pick a nickname and press <b>Play</b>.</p></div>
+      <p id="online"></p>
+    </section>
+
+    <aside id="board">
+      <h2>High Scores</h2>
+      <p class="hint">Cars beaten, all time</p>
+      <ol id="scores"><li class="empty">No scores yet</li></ol>
+    </aside>
+  </main>
+
+  <footer>Runs on <a href="https://ruffle.rs" target="_blank" rel="noopener">Ruffle</a>. Your progress is saved in this browser.</footer>
+
+  <!-- Self-host Ruffle (public/ruffle/) for stability; the CDN build below always tracks the newest nightly. -->
+  <script src="https://unpkg.com/@ruffle-rs/ruffle"></script>
+  <script src="/app.js"></script>
+</body>
+</html>

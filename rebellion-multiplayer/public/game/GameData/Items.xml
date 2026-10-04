@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Items>
+  <Item type="position"/>
+  <Item type="start mark"/>
+  <Item type="finish mark" touchable="true" endTrack="true"/>
+  <Item type="rotate mark" touchable="true" shiftScreen="true"/>
+  <Item type="tree0"/>
+  <Item type="sign0"/>
+  <Item type="saw horse0"/>
+  <Item type="cone" collisionSound="coneHit" collisionFrame="2" decel="0.0012" bounceFactor="0.7" carReactionType="slow" carReactionFactor="0.92" frequencyOfCollisions="300" minVolume="60" maxVolume="90" touchable="true" reactable="true" hasShrapnel="false" disableOnHit="true"/>
+  <Item type="saw horse" collisionSound="sawHorseHit" collisionFrame="2" decel="0.001" bounceFactor="0.6" carReactionType="slow" carReactionFactor="0.85" frequencyOfCollisions="300" minVolume="70" maxVolume="100" touchable="true" reactable="true" hasShrapnel="true" disableOnHit="true"/>
+  <Item type="snowball" collisionSound="snowTuft01" collisionFrame="2" decel="0.001" bounceFactor="0.5" carReactionType="slow" carReactionFactor="0.88" frequencyOfCollisions="300" minVolume="60" maxVolume="90" touchable="true" reactable="true" hasShrapnel="false" disableOnHit="true"/>
+  <Item type="skull" collisionSound="hitRock01" collisionFrame="2" decel="0.001" bounceFactor="0.6" carReactionType="slow" carReactionFactor="0.85" frequencyOfCollisions="300" minVolume="70" maxVolume="100" touchable="true" reactable="true" hasShrapnel="true" disableOnHit="true"/>
+  <Item type="lava spike" collisionSound="hitRock01" collisionFrame="2" decel="0.0008" bounceFactor="0.3" carReactionType="slow" carReactionFactor="0.8" frequencyOfCollisions="300" minVolume="80" maxVolume="100" touchable="true" reactable="true" hasShrapnel="false" disableOnHit="true"/>
+  <Item type="ice spike" collisionSound="hitRock01" collisionFrame="2" decel="0.0008" bounceFactor="0.3" carReactionType="slow" carReactionFactor="0.8" frequencyOfCollisions="300" minVolume="80" maxVolume="100" touchable="true" reactable="true" hasShrapnel="false" disableOnHit="true"/>
+  <Item type="bush0" collisionSound="snowTuft01" collisionFrame="2" decel="0.0015" bounceFactor="0.4" carReactionType="slow" carReactionFactor="0.9" frequencyOfCollisions="300" minVolume="50" maxVolume="80" touchable="true" reactable="true" hasShrapnel="false" disableOnHit="true"/>
+  <Item type="pineTree0" collisionSound="snowTuft01" collisionFrame="2" decel="0.0015" bounceFactor="0.4" carReactionType="slow" carReactionFactor="0.88" frequencyOfCollisions="300" minVolume="50" maxVolume="80" touchable="true" reactable="true" hasShrapnel="false" disableOnHit="true"/>
+  <Item type="burned tree" collisionSound="hitRock01" collisionFrame="2" decel="0.0015" bounceFactor="0.4" carReactionType="slow" carReactionFactor="0.88" frequencyOfCollisions="300" minVolume="50" maxVolume="80" touchable="true" reactable="true" hasShrapnel="false" disableOnHit="true"/>
+  <Item type="pothole0" collisionSound="pothole01" collisionFrame="1" decel="0.002" bounceFactor="0.0" carReactionType="slow" carReactionFactor="0.75" frequencyOfCollisions="600" minVolume="60" maxVolume="90" touchable="true" reactable="true" hasShrapnel="false" disableOnHit="false" carVisibleReaction="shake"/>
+  <Item type="pothole1" collisionSound="pothole01" collisionFrame="1" decel="0.002" bounceFactor="0.0" carReactionType="slow" carReactionFactor="0.75" frequencyOfCollisions="600" minVolume="60" maxVolume="90" touchable="true" reactable="true" hasShrapnel="false" disableOnHit="false" carVisibleReaction="shake"/>
+  <Item type="waterhole0" collisionSound="splash" collisionFrame="1" decel="0.002" bounceFactor="0.0" carReactionType="slow" carReactionFactor="0.75" frequencyOfCollisions="600" minVolume="60" maxVolume="90" touchable="true" reactable="true" hasShrapnel="false" disableOnHit="false" carVisibleReaction="shake"/>
+  <Item type="waterhole1" collisionSound="splash" collisionFrame="1" decel="0.002" bounceFactor="0.0" carReactionType="slow" carReactionFactor="0.75" frequencyOfCollisions="600" minVolume="60" maxVolume="90" touchable="true" reactable="true" hasShrapnel="false" disableOnHit="false" carVisibleReaction="shake"/>
+  <Item type="lavahole0" collisionSound="splash" collisionFrame="1" decel="0.002" bounceFactor="0.0" carReactionType="slow" carReactionFactor="0.75" frequencyOfCollisions="600" minVolume="60" maxVolume="90" touchable="true" reactable="true" hasShrapnel="false" disableOnHit="false" carVisibleReaction="shake"/>
+  <Item type="lavahole1" collisionSound="splash" collisionFrame="1" decel="0.002" bounceFactor="0.0" carReactionType="slow" carReactionFactor="0.75" frequencyOfCollisions="600" minVolume="60" maxVolume="90" touchable="true" reactable="true" hasShrapnel="false" disableOnHit="false" carVisibleReaction="shake"/>
+  <Item type="lavahole2" collisionSound="splash" collisionFrame="1" decel="0.002" bounceFactor="0.0" carReactionType="slow" carReactionFactor="0.75" frequencyOfCollisions="600" minVolume="60" maxVolume="90" touchable="true" reactable="true" hasShrapnel="false" disableOnHit="false" carVisibleReaction="shake"/>
+  <Item type="powerup - speed" collisionSound="powerUp01" minVolume="100" maxVolume="100" touchable="false" collectible="true"/>
+  <Item type="powerup - handling" collisionSound="powerUp01" minVolume="100" maxVolume="100" touchable="false" collectible="true"/>
+  <Item type="powerup - acceleration" collisionSound="powerUp01" minVolume="100" maxVolume="100" touchable="false" collectible="true"/>
+</Items>

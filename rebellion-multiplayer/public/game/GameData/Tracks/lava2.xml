@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Track>
+  <Name>Lava 2</Name>
+  <Theme>lava</Theme>
+  <Order>2</Order>
+  <Legs>
+    <Leg angle="270" length="1182">
+      <Item type="start mark" distance="130" shift="-200"/>
+    </Leg>
+    <Leg angle="282.2" length="191"/>
+    <Leg angle="306.7" length="191"/>
+    <Leg angle="318.9" length="270"/>
+    <Leg angle="320.8" length="413">
+      <Item type="powerup - speed" distance="66" shift="81" rotation="90"/>
+      <Item type="powerup - handling" distance="401" shift="-22" rotation="90"/>
+    </Leg>
+    <Leg angle="339.9" length="590">
+      <Item type="lavahole2" distance="224" shift="-107" rotation="90"/>
+    </Leg>
+    <Leg angle="359.2" length="590"/>
+    <Leg angle="19.3" length="585"/>
+    <Leg angle="44" length="404">
+      <Item type="powerup - handling" distance="12" shift="-97" rotation="90"/>
+    </Leg>
+    <Leg angle="51.6" length="119">
+      <Item type="lava spike" distance="10" shift="22" rotation="90"/>
+    </Leg>
+    <Leg angle="66.8" length="119"/>
+    <Leg angle="74.4" length="322"/>
+    <Leg angle="97.9" length="1312">
+      <Item type="skull" distance="816" shift="-74" rotation="90"/>
+      <Item type="lavahole2" distance="898" shift="56" rotation="90"/>
+      <Item type="powerup - acceleration" distance="980" shift="59" rotation="90"/>
+    </Leg>
+    <Leg angle="84.4" length="1245">
+      <Item type="lavahole1" distance="1010" shift="36" rotation="90"/>
+      <Item type="lavahole1" distance="1080" shift="4" rotation="90"/>
+    </Leg>
+    <Leg angle="93.3" length="845">
+      <Item type="powerup - speed" distance="583" shift="-37" rotation="90"/>
+    </Leg>
+    <Leg angle="108.7" length="510"/>
+    <Leg angle="125.5" length="1077">
+      <Item type="skull" distance="700" shift="73" rotation="90"/>
+      <Item type="skull" distance="804" shift="36" rotation="90"/>
+      <Item type="skull" distance="905" shift="-94" rotation="90"/>
+    </Leg>
+    <Leg angle="97.7" length="802">
+      <Item type="powerup - handling" distance="376" shift="26" rotation="90"/>
+    </Leg>
+    <Leg angle="77" length="737">
+      <Item type="lava spike" distance="689" shift="-124" rotation="90"/>
+    </Leg>
+    <Leg angle="52.9" length="607"/>
+    <Leg angle="28.6" length="629"/>
+    <Leg angle="1.7" length="507">
+      <Item type="lavahole0" distance="83" shift="126" rotation="90"/>
+      <Item type="lava spike" distance="201" shift="23" rotation="90"/>
+      <Item type="powerup - acceleration" distance="415" shift="99" rotation="90"/>
+    </Leg>
+    <Leg angle="354.5" length="113"/>
+    <Leg angle="340" length="113"/>
+    <Leg angle="332.7" length="343"/>
+    <Leg angle="324.3" length="133"/>
+    <Leg angle="307.3" length="133"/>
+    <Leg angle="298.8" length="320"/>
+    <Leg angle="291.8" length="110"/>
+    <Leg angle="277.7" length="110"/>
+    <Leg angle="270.6" length="2227">
+      <Item type="lavahole2" distance="498" shift="20" rotation="90"/>
+      <Item type="lavahole2" distance="590" shift="-105" rotation="90"/>
+      <Item type="powerup - speed" distance="1161" shift="34" rotation="90"/>
+      <Item type="lavahole1" distance="2032" shift="-59" rotation="90"/>
+    </Leg>
+    <Leg angle="283.6" length="437"/>
+    <Leg angle="291.2" length="119"/>
+    <Leg angle="306.4" length="119"/>
+    <Leg angle="314" length="552">
+      <Item type="powerup - handling" distance="117" shift="24" rotation="90"/>
+    </Leg>
+    <Leg angle="334.2" length="2019">
+      <Item type="lavahole1" distance="877" shift="26" rotation="90"/>
+      <Item type="lavahole0" distance="1005" shift="-117" rotation="90"/>
+      <Item type="powerup - acceleration" distance="1577" shift="-31" rotation="90"/>
+    </Leg>
+    <Leg angle="320" length="289"/>
+    <Leg angle="312.9" length="110"/>
+    <Leg angle="298.9" length="110">
+      <Item type="lava spike" distance="10" shift="8" rotation="90"/>
+      <Item type="lava spike" distance="100" shift="-38" rotation="90"/>
+    </Leg>
+    <Leg angle="291.8" length="413"/>
+    <Leg angle="275.5" length="1914">
+      <Item type="powerup - speed" distance="875" shift="-42" rotation="90"/>
+      <Item type="finish mark" distance="1869" shift="-200"/>
+    </Leg>
+    <Leg angle="275.5" length="711"/>
+  </Legs>
+</Track>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Cars>
+  <Car id="c0" name="Car 1" speedMin="0.25" speedMax="0.55" accelMin="0.35" accelMax="0.65" handlingMin="0.6" handlingMax="0.9" locked="false"/>
+  <Car id="c1" name="Car 2" speedMin="0.2" speedMax="0.5" accelMin="0.45" accelMax="0.75" handlingMin="0.6" handlingMax="0.9" locked="true"/>
+  <Car id="c2" name="Car 3" speedMin="0.15" speedMax="0.45" accelMin="0.15" accelMax="0.45" handlingMin="0.6" handlingMax="0.9" locked="true"/>
+  <Car id="c3" name="Car 4" speedMin="0.55" speedMax="0.85" accelMin="0.25" accelMax="0.55" handlingMin="0.4" handlingMax="0.7" locked="true"/>
+  <Car id="c4" name="Car 5" speedMin="0.4" speedMax="0.7" accelMin="0.4" accelMax="0.7" handlingMin="0.5" handlingMax="0.8" locked="true"/>
+  <Car id="c5" name="Car 6" speedMin="0.35" speedMax="0.65" accelMin="0.56" accelMax="0.86" handlingMin="0.55" handlingMax="0.85" locked="true"/>
+  <Car id="c6" name="Car 7" speedMin="0.5" speedMax="0.8" accelMin="0.3" accelMax="0.6" handlingMin="0.45" handlingMax="0.75" locked="true"/>
+  <Car id="c7" name="Car 8" speedMin="0.65" speedMax="0.95" accelMin="0.45" accelMax="0.75" handlingMin="0.35" handlingMax="0.65" locked="true"/>
+  <Car id="c8" name="Car 9" speedMin="0.2" speedMax="0.5" accelMin="0.68" accelMax="0.98" handlingMin="0.65" handlingMax="0.95" locked="true"/>
+  <Car id="c9" name="Car 10" speedMin="0.45" speedMax="0.75" accelMin="0.4" accelMax="0.7" handlingMin="0.45" handlingMax="0.75" locked="true"/>
+  <Car id="c10" name="Car 11" speedMin="0.75" speedMax="1.0" accelMin="0.2" accelMax="0.5" handlingMin="0.3" handlingMax="0.6" locked="true"/>
+  <Car id="c11" name="Car 12" speedMin="0.15" speedMax="0.45" accelMin="0.57" accelMax="0.87" handlingMin="0.65" handlingMax="0.95" locked="true"/>
+</Cars>

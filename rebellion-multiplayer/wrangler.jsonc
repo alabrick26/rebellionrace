@@ -1,0 +1,24 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "rebellion-race",
+  "main": "src/index.js",
+  "compatibility_date": "2025-09-01",
+
+  // The static website (public/) is served by the same Worker.
+  "assets": { "directory": "./public", "binding": "ASSETS" },
+
+  // One global Durable Object runs all live races (WebSockets).
+  "durable_objects": { "bindings": [{ "name": "HUB", "class_name": "Hub" }] },
+  "migrations": [{ "tag": "v1", "new_sqlite_classes": ["Hub"] }],
+
+  // High scores, nicknames and car progress.
+  "d1_databases": [
+    { "binding": "DB", "database_name": "rebellion", "database_id": "PASTE-YOUR-D1-DATABASE-ID-HERE" }
+  ],
+
+  "vars": {
+    "BLOCKED_WORDS": "",   // comma-separated substrings that nicknames may not contain
+    "STRICT_AUTH": "0"     // "1" = never accept cookie-less Remoting calls
+  },
+  "observability": { "enabled": true }
+}

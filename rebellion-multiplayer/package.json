@@ -1,0 +1,17 @@
+{
+  "name": "rebellion-race-multiplayer",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Multiplayer + high-score backend for the Hot Wheels Rebellion Race Flash game (Cloudflare Workers + Durable Objects + D1, played through Ruffle).",
+  "scripts": {
+    "dev": "wrangler dev --local --persist-to .wrangler/state",
+    "db:local": "wrangler d1 execute rebellion --local --persist-to .wrangler/state --file=schema.sql",
+    "db:remote": "wrangler d1 execute rebellion --remote --file=schema.sql",
+    "deploy": "wrangler deploy",
+    "test": "node --test --no-warnings \"test/*.test.js\""
+  },
+  "devDependencies": {
+    "wrangler": "^4.0.0"
+  }
+}

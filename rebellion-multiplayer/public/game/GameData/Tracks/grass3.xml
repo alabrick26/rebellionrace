@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Track>
+  <Name>Grass 3</Name>
+  <Theme>construction</Theme>
+  <Order>3</Order>
+  <Legs>
+    <Leg angle="270" length="603">
+      <Item type="start mark" distance="130" shift="-200"/>
+      <Item type="saw horse0" distance="358" shift="-115" rotation="90"/>
+      <Item type="saw horse0" distance="358" shift="-45" rotation="90"/>
+      <Item type="saw horse0" distance="358" shift="45" rotation="90"/>
+      <Item type="saw horse0" distance="358" shift="115" rotation="90"/>
+    </Leg>
+    <Leg angle="272" length="3330">
+      <Item type="powerup - speed" distance="1297" shift="20" rotation="90"/>
+      <Item type="cone" distance="2012" shift="74" rotation="90"/>
+      <Item type="powerup - handling" distance="3191" shift="2" rotation="90"/>
+    </Leg>
+    <Leg angle="284.4" length="464"/>
+    <Leg angle="306.2" length="434">
+      <Item type="cone" distance="180" shift="-102" rotation="90"/>
+    </Leg>
+    <Leg angle="329" length="384"/>
+    <Leg angle="348.9" length="438"/>
+    <Leg angle="359.8" length="4318">
+      <Item type="powerup - acceleration" distance="533" shift="63" rotation="90"/>
+      <Item type="pothole1" distance="666" shift="-12" rotation="90"/>
+      <Item type="cone" distance="765" shift="49" rotation="90"/>
+      <Item type="cone" distance="2049" shift="113" rotation="90"/>
+      <Item type="saw horse" distance="2171" shift="-123" rotation="90"/>
+      <Item type="powerup - speed" distance="2967" shift="-40" rotation="90"/>
+      <Item type="cone" distance="3406" shift="-90" rotation="90"/>
+      <Item type="cone" distance="3533" shift="114" rotation="90"/>
+    </Leg>
+    <Leg angle="15.8" length="538"/>
+    <Leg angle="39.3" length="371"/>
+    <Leg angle="47.4" length="126"/>
+    <Leg angle="63.6" length="126">
+      <Item type="saw horse" distance="31" shift="-146" rotation="90"/>
+      <Item type="powerup - handling" distance="116" shift="106" rotation="90"/>
+    </Leg>
+    <Leg angle="71.6" length="198"/>
+    <Leg angle="80.1" length="133"/>
+    <Leg angle="97.1" length="133"/>
+    <Leg angle="105.5" length="307"/>
+    <Leg angle="131.5" length="486"/>
+    <Leg angle="142.4" length="1650">
+      <Item type="cone" distance="338" shift="71" rotation="90"/>
+      <Item type="powerup - acceleration" distance="1214" shift="-33" rotation="90"/>
+    </Leg>
+    <Leg angle="134.2" length="1095">
+      <Item type="saw horse" distance="519" shift="95" rotation="90"/>
+    </Leg>
+    <Leg angle="145" length="1497">
+      <Item type="powerup - speed" distance="710" shift="-79" rotation="90"/>
+      <Item type="pothole1" distance="1295" shift="-126" rotation="90"/>
+      <Item type="pothole1" distance="1421" shift="126" rotation="90"/>
+    </Leg>
+    <Leg angle="125" length="502"/>
+    <Leg angle="102.5" length="193"/>
+    <Leg angle="91.6" length="149"/>
+    <Leg angle="69.8" length="149"/>
+    <Leg angle="58.9" length="189">
+      <Item type="powerup - handling" distance="90" shift="99" rotation="90"/>
+    </Leg>
+    <Leg angle="50.6" length="130"/>
+    <Leg angle="34" length="130"/>
+    <Leg angle="25.7" length="451"/>
+    <Leg angle="17.4" length="129"/>
+    <Leg angle="0.9" length="129">
+      <Item type="cone" distance="3" shift="49" rotation="90"/>
+    </Leg>
+    <Leg angle="352.6" length="834">
+      <Item type="cone" distance="9" shift="-49" rotation="90"/>
+    </Leg>
+    <Leg angle="3.6" length="1750">
+      <Item type="cone" distance="465" shift="-25" rotation="90"/>
+      <Item type="powerup - acceleration" distance="568" shift="-62" rotation="90"/>
+      <Item type="cone" distance="594" shift="20" rotation="90"/>
+      <Item type="cone" distance="717" shift="107" rotation="90"/>
+      <Item type="finish mark" distance="1705" shift="-200"/>
+    </Leg>
+    <Leg angle="3.6" length="1500"/>
+  </Legs>
+</Track>
